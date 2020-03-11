@@ -1,0 +1,15 @@
+{
+    "title": "The Implementation of Functional Programming Languages",
+    "author": "Simon Peyton Jones",
+    "description": "中文译本",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "函数式语言的实现": "https://github.com/dejavudwh/The-Implementation-of-Functional-Programming-Languages"
+        }
+    },
+    "structure": {
+        "readme": "README.md"
+    }
+}
